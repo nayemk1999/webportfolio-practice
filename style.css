@@ -50,3 +50,39 @@ h3{
     background-repeat: no-repeat;
     height: 500px;
 }
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    height: 500px;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.single-area{
+    height: 80%;
+    box-shadow: 10px 10px 40px gray;
+    background-color: white;
+
+}
+#full-stack{
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-radius: 10px;
+}
+#baby-dev{
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: darkslategrey;
+}
+.exhd{
+    background-color: rgb(127, 255, 8);
+    display:table;
+    padding: 15px;
+    border-radius: 10px;
+}
